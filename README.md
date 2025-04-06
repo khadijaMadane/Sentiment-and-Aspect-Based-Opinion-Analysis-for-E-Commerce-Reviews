@@ -23,3 +23,11 @@ This project automates sentiment analysis and aspect extraction from e-commerce 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sentiment-analysis-ecommerce.git
+
+
+2. Run the Streamlit app:
+   ```bash
+     streamlit run app.py
+  
+
+   
